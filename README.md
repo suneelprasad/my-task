@@ -1,3 +1,16 @@
+##  how to run and test your app here
+1 Download the zip file provided and extract the file
+2 now open vs code (prefferd) and go to my-task path using terminal and install node modules to download all the dependencies in the application using command npm i
+3 now start the application using command npm start
+4 The application is ready to test.
+5 upon the search please press enter to get results.
+
+## Dev Notes
+I have used material ui library for search box as it is easy and comes with responsiveness , independent on js frameworks and compactible across browers
+
+### Future Improvements
+1 we can add toast messages and error messages.
+2 in this application we can exceptional handling and Ui look and feel can be improved
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
